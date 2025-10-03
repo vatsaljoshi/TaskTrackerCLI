@@ -154,19 +154,6 @@ java com.example.tasktracker.TaskTrackerCLI list done
 
 ## Screenshots
 
-*Add your screenshots here to showcase the CLI in action.*
-
----
-
-## Notes
-
-* This project uses **only the standard Java library**; no external dependencies.
-* The `tasks.json` (or text file) is created automatically in the project root if it does not exist.
-* Task IDs remain unique even after deletion.
-
----
-
-## Screenshots
 <img width="558" height="791" alt="Screen Shot 2025-10-03 at 18 57 34" src="https://github.com/user-attachments/assets/661e70e3-f863-4ac4-b3d1-b23f681e007a" />
 
 ---
